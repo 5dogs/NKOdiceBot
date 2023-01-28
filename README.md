@@ -24,6 +24,16 @@ Charactors will be picked up from [う,ま,ち,ん,こ,お].
 # how words be scored
 Look up [NKODICE RULES](http://ksym.jp/nkodice/rules.html)
 
+# Meaning of words for each role
+
+* う〇こ(UNKO) => p**p
+* う〇ち(UNCHI) => p**p(sounds prettier than UNKO)
+* ま〇こ(MANKO) =>p***y
+* お〇〇こ(OMANKO) =>p***y(sounds more polite than MANKO)
+* ち〇〇ん(CHINCHIN) =>d**k
+* お〇〇〇ん(OCHINCHIN) =>d**k(sounds more polite than CHINCHIN)
+
+
 # Environments
 * Google Apps Script (personal account)
 * Google spread sheet
