@@ -17,7 +17,7 @@ NKOdiceBot is "Dice Game account" working on Twitter.
 
 # what charactors be chosen
 Charactors will be picked up from [う,ま,ち,ん,こ,お].
-<br>Each letter is pronounced [U, MA, CHI, NN, KO].
+<br>Each letter is pronounced [U, MA, CHI, N, KO].
 <br>Sometimes dice fall off of table so dice doesn't always return 5.
 
 
@@ -29,6 +29,12 @@ Look up [NKODICE RULES](http://ksym.jp/nkodice/rules.html)
 * Google spread sheet
 * Twitter API V2
 
+# Requirement (liblaries for GAS)
+[apps-script-oauth1](https://github.com/googleworkspace/apps-script-oauth1)
+<br>```key: 1CXDCY5sqT9ph64fFwSzVtXnbjpSfWdRymafDrtIZ7Z_hwysTY7IIhi7s```
+
+<br>[TwitterClient](https://github.com/belltreeSzk/TwitterClient/blob/master/TwitterClient.gs)
+<br>```key: 1fHCjI78BV3o7nGx2l0lJ7WXM49VFbobGDNdFGqAoVFZyRJ2kepQYzVLd```
 
 
 # Inspired by
