@@ -26,7 +26,7 @@ Look up [NKODICE RULES](http://ksym.jp/nkodice/rules.html)
 
 # Meaning of words for each role
 
-* 〇〇こ(U**O) => p**p
+* 〇〇こ(||UNKO||) => p**p
 * 〇〇ち(U***I) => p**p(sounds prettier than U**O)
 * 〇〇こ(M***O) =>p***y
 * 〇〇〇こ(O****O) =>p***y(sounds more polite than M***O)
