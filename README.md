@@ -26,12 +26,12 @@ Look up [NKODICE RULES](http://ksym.jp/nkodice/rules.html)
 
 # Meaning of words for each role
 
-* 〇〇こ(||UNKO||) => p**p
-* 〇〇ち(U***I) => p**p(sounds prettier than U**O)
-* 〇〇こ(M***O) =>p***y
-* 〇〇〇こ(O****O) =>p***y(sounds more polite than M***O)
-* 〇〇〇ん(C******N) =>d**k
-* 〇〇〇〇ん(O*******N) =>d**k(sounds more polite than C******N)
+* 〇〇こ(U__O) => p__p
+* 〇〇ち(U___I) => p__p(sounds prettier than U__O)
+* 〇〇こ(M___O) =>p___y
+* 〇〇〇こ(O____O) =>p___y(sounds more polite than M___O)
+* 〇〇〇ん(C______N) =>d__k
+* 〇〇〇〇ん(O______N) =>d__k(sounds more polite than C______N)
 
 ※Partially obscured due to inappropriate expression
 
