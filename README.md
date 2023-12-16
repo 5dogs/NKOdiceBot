@@ -26,13 +26,14 @@ Look up [NKODICE RULES](http://ksym.jp/nkodice/rules.html)
 
 # Meaning of words for each role
 
-* う〇こ(UNKO) => p**p
-* う〇ち(UNCHI) => p**p(sounds prettier than UNKO)
-* ま〇こ(MANKO) =>p***y
-* お〇〇こ(OMANKO) =>p***y(sounds more polite than MANKO)
-* ち〇〇ん(CHINCHIN) =>d**k
-* お〇〇〇ん(OCHINCHIN) =>d**k(sounds more polite than CHINCHIN)
+* 〇〇こ(U**O) => p**p
+* 〇〇ち(U***I) => p**p(sounds prettier than U**O)
+* 〇〇こ(M***O) =>p***y
+* 〇〇〇こ(O****O) =>p***y(sounds more polite than M***O)
+* 〇〇〇ん(C******N) =>d**k
+* 〇〇〇〇ん(O*******N) =>d**k(sounds more polite than C******N)
 
+※Partially obscured due to inappropriate expression
 
 # Environments
 * Google Apps Script (personal account)
@@ -53,8 +54,4 @@ Look up [NKODICE RULES](http://ksym.jp/nkodice/rules.html)
 
 # Author
 Taku Ishikura
-
-
-
-<br><br>TRY putting out OCHINCHIN!
 
