@@ -6,7 +6,7 @@ function getTwitterService() {
     .setAccessTokenUrl("https://api.twitter.com/oauth/access_token")
     .setRequestTokenUrl("https://api.twitter.com/oauth/request_token")
     .setAuthorizationUrl("https://api.twitter.com/oauth/authorize")
-    .setConsumerKey("AAAAAAAAAAAAAAうんち💩！AAAAAAAAAAAAA")
+    .setConsumerKey("AAAAAAAAAAAAAAうんち💩💩！AAAAAAAAAAAAA")
     .setConsumerSecret("BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB")
     // 認証後に実行するコールバック関数の指定
     .setCallbackFunction('authCallback')
