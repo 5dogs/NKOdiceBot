@@ -6,12 +6,13 @@ function getTwitterService() {
     .setAccessTokenUrl("https://api.twitter.com/oauth/access_token")
     .setRequestTokenUrl("https://api.twitter.com/oauth/request_token")
     .setAuthorizationUrl("https://api.twitter.com/oauth/authorize")
-    .setConsumerKey("AAAAAAAAAAAAAAうんち💩💩！AAAAAAAAAAAAA")
+    .setConsumerKey("AAAAAAAAAAAAAA💩💩！AAAAAAAAAAAAA")
     .setConsumerSecret("BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB")
     // 認証後に実行するコールバック関数の指定
     .setCallbackFunction('authCallback')
     // 生成したトークンをGASのプロパティストアに保存（永続化）
-    .setPropertyStore(PropertiesService.getUserProperties());
+    .setPropertyStore
+    (PropertiesService.getUserProperties());
 }
 
 
