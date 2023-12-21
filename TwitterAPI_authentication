@@ -29,11 +29,11 @@ function generateToken_thenAuthorize() {
     // ⇧しかもコレ逆説
     ui.showModalDialog(template.evaluate(), 'OAuth1.0認証用だにょ');
     // ⇧⇧イラン説
-    Logger.log(authorizationUrl +'  <===OAuth1.0認証用だにょーん')
+    Logger.log(authorizationUrl +'  <===OAuth1.0認証用だにょ')
   } else {
-    Logger.log("OAuth1.0認証はすでに許可されているにょ---")
-    Logger.log("あとui.alert推してあげて---")
-    ui.alert("OAuth1.0認証はすでに許可されているにょ多分");
+    Logger.log("OAuth1.0認証はすでに許可されているにょ")
+    Logger.log("あとui.alert推してあげて")
+    ui.alert("OAuth1.0認証はすでに許可されているにょおそらく");
   }
 }
 
