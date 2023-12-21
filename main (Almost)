@@ -15,7 +15,7 @@ function postGeneratedFiveLetters(){
   
   logWordTweetId_onSheetMy(msg,tweetId_str)
 
-  // ⇩append使用NG!!!because最終行からget⇒最終行にsetしてるから
+  // ⇩append使用NG!!!because最終行からget⇒最終行にsetしてるからだよ
   sheetMy.getRange(lastRow_sheetMy +1,3).setValue(tweetId_str)
 }
 
