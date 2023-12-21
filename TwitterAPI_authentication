@@ -11,7 +11,8 @@ function getTwitterService() {
     // 認証後に実行するコールバック関数の指定
     .setCallbackFunction('authCallback')
     // 生成したトークンをGASのプロパティストアに保存（永続化）
-    .setPropertyStore(PropertiesService.getUserProperties());
+    .setPropertyStore
+    (PropertiesService.getUserProperties());
 }
 
 
