@@ -1,3 +1,9 @@
+//2024/03/27
+//no longer supprted by these library
+// apps-script-oauth1
+// key: 1CXDCY5sqT9ph64fFwSzVtXnbjpSfWdRymafDrtIZ7Z_hwysTY7IIhi7s
+// TwitterClient
+// key: 1fHCjI78BV3o7nGx2l0lJ7WXM49VFbobGDNdFGqAoVFZyRJ2kepQYzVLd
 
 
 function getTwitterService() {
